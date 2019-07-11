@@ -1,0 +1,5 @@
+root
+admin
+oracle
+test
+user
